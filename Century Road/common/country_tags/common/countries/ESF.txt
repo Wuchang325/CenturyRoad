@@ -1,0 +1,3 @@
+color = { 63 143 143 }  # RGB颜色代码
+ideology = democratic    # 默认意识形态
+capital = 12512           # 首都省份ID（需替换为实际ID）
